@@ -15,7 +15,7 @@ const greeting = {
   nickname: "gunayakbas / uckbosh",
   full_name: "Günay Akbaş",
   subTitle:
-    "Control Engineering student, Robotics Enthusiast.",
+    "Control Engineering student, Robotics enthusiast.",
   resumeLink:
     "https://drive.google.com/file/d/1ilfPBd69U1ubI6FIn-k3Wtfkpq0QjGoz/view?usp=sharing",
   mail: "gunayakbas@outlook.com",
@@ -36,9 +36,9 @@ const skills = {
       title: "Embedded Programming",
       fileName: "FullStackImg",
       skills: [
-        "⚡ Hands-on experience with STM32 microcontroller",
-        "⚡ Developing physical applications using C with Keil",
-        "⚡ Implementing real-life control systems on a microcontroller",
+        "⚡ Hands-on experience with STM32 microcontroller.",
+        "⚡ Developing physical applications using C with Keil.",
+        "⚡ Implementing real-life control systems on a microcontroller.",
       ],
       softwareSkills: [
         {
@@ -92,9 +92,9 @@ const skills = {
       title: "System Modelling",
       fileName: "DataScienceImg",
       skills: [
-        "⚡ Modelling and Simulation of biological control systems",
-        "⚡ Designing and testing electromechanical systems",
-        "⚡ Experience in a robotic leg project",
+        "⚡ Modelling and Simulation of biological control systems.",
+        "⚡ Designing and testing electromechanical systems.",
+        "⚡ Experience in a robotic leg project.",
       ],
       softwareSkills: [
         {
@@ -148,7 +148,7 @@ const degrees = {
       alt_name: "SETI",
       duration: "2019 - Present",
       descriptions: [
-        "⚡ I have studied core subjects Microcontroller Systems, Feedback Control Systems and Programming Techniques in Control.",
+        "⚡ I have studied core subjects like Microcontroller Systems, Feedback Control Systems and Programming Techniques in Control.",
         "⚡ I have also completed various online courses for ML and AI, Embedded systems, Matlab and Simulink.",
         "⚡ I have implemented several projects based on what I've learnt within my Engineering major. ",
       ],
