@@ -267,7 +267,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. I have a profound experience in creating control systems on a microcontroller and designing controllers on Simulink.",
+    "My projects make use of vast variety of latest technology tools. I have a profound experience in creating control systems on a microcontroller and designing controllers on Simulink.",
   avatar_image_path: "projects_image.svg",
 };
 
@@ -283,7 +283,7 @@ const contactPageData = {
     title: "Blogs",
     subtitle:
       "I don't blog frequently but when I do something awesome, I do try to document it so it can be helpful to others. I write on Medium.",
-    link: "",
+    link: "	https://medium.com/@gunaythewhite",
     avatar_image_path: "blogs_image.svg",
   },
 };

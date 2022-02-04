@@ -13,7 +13,6 @@ export default function Footer(props) {
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-          &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
           Template from Hrishi Patel
         </p>
       </Fade>
