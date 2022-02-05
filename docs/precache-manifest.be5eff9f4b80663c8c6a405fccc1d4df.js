@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "74d4d59ee27373411f1c4e11b0dbeac1",
+    "revision": "9c79ba146b7ad9f7165291fb5bd29939",
     "url": "/index.html"
   },
   {
-    "revision": "071f2205fedb5520c79e",
+    "revision": "57df0d3139d97a960da9",
     "url": "/static/css/main.00e58b76.chunk.css"
   },
   {
-    "revision": "9bd29dde0aa582775cd5",
-    "url": "/static/js/2.a435367f.chunk.js"
+    "revision": "1d7db2667af4340cd195",
+    "url": "/static/js/2.d2cef2de.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.a435367f.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.d2cef2de.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "071f2205fedb5520c79e",
-    "url": "/static/js/main.a9f4e511.chunk.js"
+    "revision": "57df0d3139d97a960da9",
+    "url": "/static/js/main.093dd0de.chunk.js"
   },
   {
     "revision": "5427338b2b04b2090112",
     "url": "/static/js/runtime-main.a6eeff82.js"
-  },
-  {
-    "revision": "53c383668d49bd98ce55f80003534b3c",
-    "url": "/static/media/100.53c38366.jpg"
-  },
-  {
-    "revision": "8f1df092adab46fa893e132c254792c4",
-    "url": "/static/media/100.8f1df092.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -66,18 +58,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "635f73aeafa1724dfceaadace39795bc",
     "url": "/static/media/avokadio.635f73ae.png"
-  },
-  {
-    "revision": "a1051a228140c97862ba9a7f321c92b6",
-    "url": "/static/media/buld.a1051a22.jpg"
-  },
-  {
-    "revision": "b3685be8bafcd5fe4786b39cba69a561",
-    "url": "/static/media/codeInLogo.b3685be8.png"
-  },
-  {
-    "revision": "7a9b2eb087350abacd2587dd578226c7",
-    "url": "/static/media/deeplearning_ai_logo.7a9b2eb0.png"
   },
   {
     "revision": "3fc1475eab81146efc8a8d6e533a35dd",
@@ -144,10 +124,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fa-solid-900.c2801fb4.svg"
   },
   {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "/static/media/googleAssistant.0c8a4c11.jpg"
-  },
-  {
     "revision": "49ffe76ab8ef0ed0aa739409c53bb276",
     "url": "/static/media/gunay.49ffe76a.jpg"
   },
@@ -156,20 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/gunayy.f163d18a.jpg"
   },
   {
-    "revision": "66e2d22bd710b19d9d9d4da4cc3e0ac2",
-    "url": "/static/media/hrishi2.66e2d22b.png"
-  },
-  {
     "revision": "97cfd1d1d56ccc82875f840dcc23f05b",
     "url": "/static/media/ibm.97cfd1d1.png"
-  },
-  {
-    "revision": "ccf886614a9c68f209d3e95c2626dd99",
-    "url": "/static/media/ino.ccf88661.png"
-  },
-  {
-    "revision": "29152cf756a1facead5393c32e373371",
-    "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
     "revision": "b1c07c925ccce0f326b99e2924f9312f",
@@ -184,23 +148,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/matlab.2209785b.png"
   },
   {
-    "revision": "e56f163e80842bcfa28db7076b28861a",
-    "url": "/static/media/quicko.e56f163e.jpg"
-  },
-  {
     "revision": "c59d354b3c003fd75b3a3dbb5dd425ef",
     "url": "/static/media/sal.c59d354b.png"
-  },
-  {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/static/media/stanford_logo.da0e7c80.png"
-  },
-  {
-    "revision": "c54faf1740c35847ac1c016c81beb35b",
-    "url": "/static/media/vjt.c54faf17.png"
-  },
-  {
-    "revision": "02fdae4350ca45cabdc9c40cc11efc2a",
-    "url": "/static/media/wrighter.02fdae43.jpg"
   }
 ]);
