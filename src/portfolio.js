@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Control Engineering student, Robotics enthusiast.",
   resumeLink:
-    "https://drive.google.com/file/d/1ilfPBd69U1ubI6FIn-k3Wtfkpq0QjGoz/view?usp=sharing",
+    "https://drive.google.com/file/d/1v13ZDHknVeImdi3BOIry4p1QUWXmb2_1/view?usp=sharing",
   mail: "gunayakbas@outlook.com",
 };
 
