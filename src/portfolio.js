@@ -241,7 +241,7 @@ const experience = {
   header_image_path: "experience.svg",
   sections: [
     {
-      title: "Internships",
+      title: "Work Experience",
       experiences: [
          {
           title: "Data Scientist",
