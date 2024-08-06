@@ -14,9 +14,9 @@ const greeting = {
   logo_name: "gunayakbas()",
   nickname: "gunayakbas / uckbosh",
   full_name: "Günay Akbaş",
-  subTitle: "Control Engineering student, Robotics and AI enthusiast.",
+  subTitle: "Control and Automation Engineer, Robotics, Data Science and AI Enthusiast.",
   resumeLink:
-    "https://drive.google.com/file/d/1CV87lbZauxWF1MrQvoFWp8_jFicR3S1m/view?usp=sharing",
+    "https://drive.google.com/file/d/1iSLstIV62xi58jMK64WOB241XZEbTT_0/view?usp=sharing",
   mail: "gunayakbas@outlook.com",
 };
 
@@ -32,7 +32,7 @@ const socialMediaLinks = {
 const skills = {
   data: [
     {
-      title: "Robotics and AI",
+      title: "Robotics, Data Science and AI",
       fileName: "DataScienceImg",
       skills: [
         "⚡ Optimizing data to achieve better-performing ML models.",
@@ -153,9 +153,9 @@ const degrees = {
       subtitle: "B.Eng. in Control and Automation Engineering",
       logo_path: "itü.png",
       alt_name: "SETI",
-      duration: "2019 - Present",
+      duration: "2019 - 2023",
       descriptions: [
-        "⚡ I have studied core subjects such as, Object Oriented Programming, Embedded Systems, Control Systems Design and Robotics.",
+        "⚡ I have studied core subjects such as, Object Oriented Programming, Embedded Systems, Control Systems Design, Robotics, Intelligent Control Systems, C/C++ Programming, PLC Systems.",
         "⚡ I have also completed various online courses on Machine Learning and Data Science with Python, Embedded Systems, Matlab and Simulink.",
         "⚡ I have implemented several projects based on what I've learnt within my Engineering major.",
       ],
@@ -237,12 +237,36 @@ const experience = {
   title: "Experience",
   subtitle: "Work, Internship and Volunteership",
   description:
-    "I've completed four internships. I've mostly done projects on my own and I am actively looking for internships. I love organizing workshops to share my knowledge with others.",
+    "I've completed 2 internships. After I graduated, I have worked as a data scientist for 9 months where I was responsible for the whole machine learning pipeline.",
   header_image_path: "experience.svg",
   sections: [
     {
       title: "Internships",
       experiences: [
+         {
+          title: "Data Scientist",
+          company: "Publins",
+          company_url: "https://www.publins.com/tr",
+          duration: "October 2023 - July 2024",
+          location: "Istanbul, Turkey",
+          description:
+            "Cleaning, annotating, visualizing and analyzing large datasets of text and image." ,
+            "Building and training machine learning models for multi-label text and image classification using Pytorch.",
+            "Keeping the database up-to-date, monitoring the models and maintaining the production performance.",
+          color: "#0071C5",
+        },
+        {
+          title: "Computer Vision Engineer",
+          company: "Divit Technology",
+          company_url: "https://www.divit.com.tr/",
+          duration: "January 2022 - July 2023",
+          location: "Istanbul, Turkey",
+          description:
+            "Worked on an end-to-end ML pipeline for continuous improvement of object detection models.",
+            "Designed an algorithm that identifies obstructions on vehicle licence plates using depth map and IoU metric.",
+            "Used Intel’s Openvino toolkit and ONNX engine to optimize deep learning models for better inference performance.",
+          color: "#0071C5",
+        },
         {
           title: "Artificial Intelligence Intern",
           company: "V-R-Robotics",
@@ -253,39 +277,6 @@ const experience = {
           description:
             "Internship task was to optimize data to obtain better results for an object detection and grasping algorithm. ",
           color: "#0071C5",
-        },
-        {
-          title: "Robotics Engineering Intern",
-          company: "Arche Robotics",
-          company_url: "https://archerobotics.com",
-          logo_path: "arche.png",
-          duration: "February 2022 - May 2022",
-          location: "Istanbul, Turkey",
-          description:
-            "Internship task was to create a heatmap of human density for mapping and robot navigation using Python and ROS. ",
-          color: "#ee3c26",
-        },
-        {
-          title: "Engineering Intern",
-          company: "Avokadio",
-          company_url: "https://www.avokad.io/tr/",
-          logo_path: "avokadio.png",
-          duration: "June 2021 - July 2021",
-          location: "Istanbul, Turkey",
-          description:
-            "Internship task was to build a chatbot that can interact with the backend using Dialogflow and Python. ",
-          color: "#0071C5",
-        },
-        {
-          title: "Engineering Intern",
-          company: "DeepSport",
-          company_url: "https://deepsportapp.com",
-          logo_path: "deepsport.png",
-          duration: "February 2021 - March 2021",
-          location: "Tekirdag, Turkey",
-          description:
-            "I worked on the implementation of a human pose estimation model on Flutter app using Tensorflow lite",
-          color: "#ee3c26",
         },
       ],
     },
