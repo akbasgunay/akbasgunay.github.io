@@ -250,9 +250,7 @@ const experience = {
           duration: "October 2023 - July 2024",
           location: "Istanbul, Turkey",
           description:
-            "Cleaning, annotating, visualizing and analyzing large datasets of text and image." ,
             "Building and training machine learning models for multi-label text and image classification using Pytorch.",
-            "Keeping the database up-to-date, monitoring the models and maintaining the production performance.",
           color: "#0071C5",
         },
         {
@@ -263,8 +261,6 @@ const experience = {
           location: "Istanbul, Turkey",
           description:
             "Worked on an end-to-end ML pipeline for continuous improvement of object detection models.",
-            "Designed an algorithm that identifies obstructions on vehicle licence plates using depth map and IoU metric.",
-            "Used Intel’s Openvino toolkit and ONNX engine to optimize deep learning models for better inference performance.",
           color: "#0071C5",
         },
         {
